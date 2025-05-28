@@ -79,6 +79,7 @@ header {
 
 .social-icon:hover {
     color: #fff;
+    transform: translateY(-5px);
 }
 /* last part  */
 footer {
