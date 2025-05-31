@@ -95,13 +95,16 @@ header {
     background-color: rgba(227, 192, 77, 0.865);
     border: none;
     color: #000;
-    transition: 0.3s ease;
+    padding: 0.6rem 1.2rem;
+    border-radius: 30px;
+    font-weight: bold;
+    transition: all 0.3s ease;
 }
-
 .btn-warning:hover {
     background-color: #000;
     color: rgba(227, 192, 77, 0.865);
     border: 1px solid rgba(227, 192, 77, 0.865);
+    transform: scale(1.05);
 }
 .social-icons {
     display: flex;
